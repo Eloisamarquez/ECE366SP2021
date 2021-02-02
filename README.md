@@ -1,4 +1,4 @@
-# ECE366SP2021
+# ECE366 Spring 2021 Project 1
 ## Progress
 - [x] Part I
 - [ ] Part II
